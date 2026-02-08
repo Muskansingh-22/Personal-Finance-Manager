@@ -19,11 +19,10 @@ def validate_date(date_text):
         return None
     
 def get_input(prompt, validator=None):
-    while True:
-        value = input(prompt)
-        if validator:
-            validated = validator(value)
-            if validated is not None:
-                return validated
-        else:
-            return value
+    value = input(prompt)
+    if validator:
+        validated = validator(value)
+        if validated is not None:
+            return validated
+    else:
+        return value

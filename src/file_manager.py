@@ -4,17 +4,16 @@ from .expense import Expense
 
 DATA_FILE = "data/expenses.csv"
 
-def load_expenses():
-    expenses = []
-    if not os.path.exists(DATA_FILE):
-        return expenses
+def load_amount_from_expenses():
     
-    with open(DATA_FILE, mode="r", newline="") as file:
-        reader = csv.reader()
+    if not os.path.exists(DATA_FILE):
+        return "No old entries exist"
+    
+    with open(DATA_FILE, mode="r", newline="") as expense_file:
+        reader = csv.DictReader(expense_file)
         next(reader, None)
-        for row in reader:
-            expenses.append(Expense(*row))
-    return expenses
+        expense_dict = [row for row in reader]
+    return expense_dict
 
 def save_expenses(expense):
     file_exists = os.path.exists(DATA_FILE)
