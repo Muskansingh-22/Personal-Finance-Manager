@@ -1,0 +1,5 @@
+- menu.py = create menu item
+- file_manager.py  =  how to handle csv - read, write
+- expense.py = functions to manage expenses, read, write, summary, search
+- reports.py = reports
+- utils.py = backup_data

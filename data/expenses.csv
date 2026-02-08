@@ -1,0 +1,91 @@
+amount,category,date,description
+120,Food,2026-01-30,Lunch
+80,Transport,2026-01-28,Auto fare
+300,Utilities,2026-01-25,Electricity bill
+450,Shopping,2026-01-20,Clothes
+200,Entertainment,2026-01-15,Movie
+1000,Rent,2026-01-05,House rent
+
+150,Food,2025-12-28,Grocery
+90,Transport,2025-12-26,Bus pass
+250,Utilities,2025-12-22,Internet bill
+600,Shopping,2025-12-18,Footwear
+180,Entertainment,2025-12-14,Streaming subscription
+1000,Rent,2025-12-05,House rent
+
+140,Food,2025-11-27,Snacks
+110,Transport,2025-11-25,Fuel
+280,Utilities,2025-11-21,Water bill
+750,Shopping,2025-11-18,Jacket
+200,Health,2025-11-14,Medicines
+1000,Rent,2025-11-05,House rent
+
+160,Food,2025-10-28,Groceries
+95,Transport,2025-10-24,Taxi
+310,Utilities,2025-10-20,Electricity bill
+500,Shopping,2025-10-17,Bag
+250,Entertainment,2025-10-13,Concert
+1000,Rent,2025-10-05,House rent
+
+130,Food,2025-09-27,Restaurant
+100,Transport,2025-09-25,Metro
+260,Utilities,2025-09-21,Gas bill
+680,Shopping,2025-09-18,Headphones
+220,Health,2025-09-14,Doctor visit
+1000,Rent,2025-09-05,House rent
+
+170,Food,2025-08-28,Grocery
+90,Transport,2025-08-24,Bus
+300,Utilities,2025-08-20,Electricity bill
+720,Shopping,2025-08-17,Jeans
+180,Entertainment,2025-08-13,Movie
+1000,Rent,2025-08-05,House rent
+
+150,Food,2025-07-28,Snacks
+105,Transport,2025-07-25,Fuel
+270,Utilities,2025-07-21,Internet bill
+640,Shopping,2025-07-18,Shoes
+210,Health,2025-07-14,Medicines
+1000,Rent,2025-07-05,House rent
+
+160,Food,2025-06-28,Grocery
+95,Transport,2025-06-24,Auto
+290,Utilities,2025-06-20,Electricity bill
+800,Shopping,2025-06-17,Mobile repair
+200,Entertainment,2025-06-13,Theme park
+1000,Rent,2025-06-05,House rent
+
+145,Food,2025-05-28,Restaurant
+110,Transport,2025-05-25,Metro
+260,Utilities,2025-05-21,Gas bill
+700,Shopping,2025-05-18,Watch
+230,Health,2025-05-14,Clinic visit
+1000,Rent,2025-05-05,House rent
+
+155,Food,2025-04-28,Grocery
+100,Transport,2025-04-24,Taxi
+300,Utilities,2025-04-20,Electricity bill
+650,Shopping,2025-04-17,Backpack
+190,Entertainment,2025-04-13,Movie
+1000,Rent,2025-04-05,House rent
+
+140,Food,2025-03-28,Snacks
+90,Transport,2025-03-25,Bus
+280,Utilities,2025-03-21,Internet bill
+720,Shopping,2025-03-18,Clothes
+210,Health,2025-03-14,Medicines
+1000,Rent,2025-03-05,House rent
+
+150,Food,2025-02-28,Grocery
+100,Transport,2025-02-24,Metro
+260,Utilities,2025-02-20,Gas bill
+680,Shopping,2025-02-17,Shoes
+200,Entertainment,2025-02-13,Streaming
+1000,Rent,2025-02-05,House rent
+
+145,Food,2025-01-30,Restaurant
+95,Transport,2025-01-28,Auto
+300,Utilities,2025-01-25,Electricity bill
+750,Shopping,2025-01-20,Winter wear
+220,Health,2025-01-15,Doctor visit
+1000,Rent,2025-01-05,House rent
